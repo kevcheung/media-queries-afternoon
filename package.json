@@ -1,0 +1,20 @@
+{
+  "name": "media-queries-afternoon",
+  "version": "1.0.0",
+  "description": "![alt text](./src/img/landing.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevcheung/media-queries-afternoon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevcheung/media-queries-afternoon/issues"
+  },
+  "homepage": "https://github.com/kevcheung/media-queries-afternoon#readme"
+}
